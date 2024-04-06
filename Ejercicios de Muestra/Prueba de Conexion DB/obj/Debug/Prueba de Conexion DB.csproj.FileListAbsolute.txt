@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\bin\Debug\Prueba de Conexion DB.exe.config
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\bin\Debug\Prueba de Conexion DB.exe
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\bin\Debug\Prueba de Conexion DB.pdb
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba de Conexion DB.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba_de_Conexion_DB.FormDataBaseTest.resources
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba_de_Conexion_DB.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba de Conexion DB.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba de Conexion DB.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba de Conexion DB.exe
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Prueba de Conexion DB\obj\Debug\Prueba de Conexion DB.pdb

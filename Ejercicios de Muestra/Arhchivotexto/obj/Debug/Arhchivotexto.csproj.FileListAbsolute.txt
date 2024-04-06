@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.exe.config
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.exe
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.pdb
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.Form1.resources
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.exe
+C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.pdb
