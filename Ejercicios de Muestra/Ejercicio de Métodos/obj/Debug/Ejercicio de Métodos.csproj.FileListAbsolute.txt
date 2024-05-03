@@ -1,0 +1,7 @@
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\bin\Debug\Ejercicio de Métodos.exe.config
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\bin\Debug\Ejercicio de Métodos.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\bin\Debug\Ejercicio de Métodos.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\obj\Debug\Ejercicio de Métodos.csproj.AssemblyReference.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\obj\Debug\Ejercicio de Métodos.csproj.CoreCompileInputs.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\obj\Debug\Ejercicio de Métodos.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Ejercicio de Métodos\obj\Debug\Ejercicio de Métodos.pdb
