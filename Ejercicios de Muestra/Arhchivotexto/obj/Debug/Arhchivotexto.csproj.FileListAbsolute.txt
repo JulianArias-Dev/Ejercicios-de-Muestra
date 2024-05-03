@@ -8,3 +8,13 @@ C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.CoreCompileInputs.cache
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.exe
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.exe.config
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\bin\Debug\Arhchivotexto.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.AssemblyReference.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.Form1.resources
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.Properties.Resources.resources
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.GenerateResource.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.csproj.CoreCompileInputs.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Arhchivotexto\obj\Debug\Arhchivotexto.pdb

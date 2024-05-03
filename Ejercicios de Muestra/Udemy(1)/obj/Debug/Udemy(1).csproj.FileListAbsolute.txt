@@ -1,0 +1,7 @@
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\bin\Debug\Udemy(1).exe.config
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\bin\Debug\Udemy(1).exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\bin\Debug\Udemy(1).pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\obj\Debug\Udemy(1).csproj.AssemblyReference.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\obj\Debug\Udemy(1).csproj.CoreCompileInputs.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\obj\Debug\Udemy(1).exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Udemy(1)\obj\Debug\Udemy(1).pdb

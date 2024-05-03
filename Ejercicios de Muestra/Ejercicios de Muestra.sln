@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arhchivotexto", "Arhchivote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba de Conexion DB", "Prueba de Conexion DB\Prueba de Conexion DB.csproj", "{714C6C08-2896-4C09-8772-7E4E1F00B115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy(1)", "Udemy(1)\Udemy(1).csproj", "{3D35B754-D6A7-4DC5-A40B-4D95631F2BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{714C6C08-2896-4C09-8772-7E4E1F00B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{714C6C08-2896-4C09-8772-7E4E1F00B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{714C6C08-2896-4C09-8772-7E4E1F00B115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D35B754-D6A7-4DC5-A40B-4D95631F2BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D35B754-D6A7-4DC5-A40B-4D95631F2BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D35B754-D6A7-4DC5-A40B-4D95631F2BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D35B754-D6A7-4DC5-A40B-4D95631F2BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

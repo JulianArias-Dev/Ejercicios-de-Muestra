@@ -5,3 +5,10 @@ C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\david\OneDrive\Documentos\Hola Mundo Dev´s House\Ejercicios\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\ConsoleApp\obj\Debug\ConsoleApp.pdb
