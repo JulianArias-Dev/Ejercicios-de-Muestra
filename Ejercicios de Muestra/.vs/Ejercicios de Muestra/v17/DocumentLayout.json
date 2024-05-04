@@ -1,12 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|c:\\ejercicios-de-muestra\\ejercicios de muestra\\escuela app\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|solutionrelative:escuela app\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|c:\\ejercicios-de-muestra\\ejercicios de muestra\\escuela app\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|solutionrelative:escuela app\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|c:\\ejercicios-de-muestra\\ejercicios de muestra\\escuela app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}|Escuela APP\\Escuela APP.csproj|solutionrelative:escuela app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escuela.cs",
+              "DocumentMoniker": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Escuela.cs",
+              "RelativeDocumentMoniker": "Escuela APP\\Escuela.cs",
+              "ToolTip": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Escuela.cs*",
+              "RelativeToolTip": "Escuela APP\\Escuela.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:40:49.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Escuela APP\\Estudiante.cs",
+              "ToolTip": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Estudiante.cs",
+              "RelativeToolTip": "Escuela APP\\Estudiante.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:36:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Program.cs",
+              "RelativeDocumentMoniker": "Escuela APP\\Program.cs",
+              "ToolTip": "C:\\Ejercicios-de-Muestra\\Ejercicios de Muestra\\Escuela APP\\Program.cs",
+              "RelativeToolTip": "Escuela APP\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:36:17.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy(1)", "Udemy(1)\Udemy(
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Métodos", "Ejercicio de Métodos\Ejercicio de Métodos.csproj", "{1F1E6965-EAD2-4608-8858-856118E2F225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Conversor de Velocidades", "App Conversor de Velocidades\App Conversor de Velocidades.csproj", "{70E46A5F-34F1-478B-81A5-83FA759AF233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela APP", "Escuela APP\Escuela APP.csproj", "{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{1F1E6965-EAD2-4608-8858-856118E2F225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1E6965-EAD2-4608-8858-856118E2F225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1E6965-EAD2-4608-8858-856118E2F225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E46A5F-34F1-478B-81A5-83FA759AF233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E46A5F-34F1-478B-81A5-83FA759AF233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E46A5F-34F1-478B-81A5-83FA759AF233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E46A5F-34F1-478B-81A5-83FA759AF233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2803B6EB-4717-4EE1-8E2C-4A26165E4C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

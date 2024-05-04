@@ -141,11 +141,59 @@ namespace Ejercicio_de_Métodos
             //*/
             #endregion
 
-            DatosDuplicados();
+            //DatosDuplicados();
 
+            #region Datos Opcionales
+            /*
+            Console.WriteLine("Ingrese el valor del prestamo");
+            var valorPrestamo = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine("Ingrese la cantidad de cuotas");
+            var cuotas = Convert.ToInt32(Console.ReadLine());
+            
+            char decision; 
+            do
+            {
+                Console.WriteLine("¿Desea modificar el porcentaje de intereses? Y/N");
+                var input = Convert.ToString(Console.ReadLine()).ToUpper();
+                decision = Convert.ToChar(input[0]);
+               
+            } while (decision!='Y' && decision!='N');
+
+            decimal valorTotal=0;
+
+            if (decision == 'Y')
+            {
+                Console.WriteLine("Ingrese el porcentaje de intereses");
+                var interes = Convert.ToDecimal(Console.ReadLine());
+                valorTotal = calcularValorPrestamo(prestamo:valorPrestamo, intereses:interes, meses: cuotas);
+                Console.WriteLine($"Con un porcentaje de intereses de: {interes*100}%\n" +
+                                  $"En {cuotas} cuotas, el cliente deberá pagar: {valorTotal}\n" +
+                                  $"Por su prestamo de: {valorPrestamo}");
+            }
+            else if(decision == 'N')
+            {
+                valorTotal = calcularValorPrestamo(valorPrestamo, cuotas);
+                Console.WriteLine($"Con un porcentaje de intereses de: 2.05%\n" +
+                                  $"En {cuotas} cuotas, el cliente deberá pagar: {valorTotal}\n" +
+                                  $"Por su prestamo de: {valorPrestamo}");
+            }
+
+            Console.WriteLine($"Valor cuotas: {valorCuotas()}");
+
+            decimal valorCuotas() => valorTotal/cuotas;
+            //*/
+            #endregion
+            
             Console.ReadKey();
         }
 
+        private static decimal calcularValorPrestamo(decimal prestamo, int meses, decimal intereses=0.0205m)
+        {
+
+            decimal calcularIntereses() => prestamo*intereses*meses;
+
+            return prestamo + calcularIntereses(); 
+        }
         private static void DatosDuplicados()
         {
             int[] array = { 4,5,2,3,5,4,3,2,4,7,8,9,6,3,4,6,7,8,5,3,3,2,2,3,6,5,3,6,3};
@@ -172,7 +220,6 @@ namespace Ejercicio_de_Métodos
 
             bool numero(int num) => list.Contains(num);
         }
-
         private static void VerificarNumero(int numero, out bool data)
         {
             data = funcion();
@@ -184,13 +231,11 @@ namespace Ejercicio_de_Métodos
             value = 50;
             Console.WriteLine("1. Valor: " + value);
         }
-        
         private static void MetodoInmutable(in string Nombre, in int Numero)
         {
             Console.WriteLine("Nombre: " + Nombre);
             Console.WriteLine("Numero: " + Numero);
         }
-        
         private static void MetodoConObjeto(params Object[] datos)
         {
             var cadena = (string)datos[0];

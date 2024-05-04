@@ -1,0 +1,7 @@
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\bin\Debug\Escuela APP.exe.config
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\bin\Debug\Escuela APP.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\bin\Debug\Escuela APP.pdb
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\obj\Debug\Escuela APP.csproj.AssemblyReference.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\obj\Debug\Escuela APP.csproj.CoreCompileInputs.cache
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\obj\Debug\Escuela APP.exe
+C:\Ejercicios-de-Muestra\Ejercicios de Muestra\Escuela APP\obj\Debug\Escuela APP.pdb
